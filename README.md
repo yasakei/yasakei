@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-> ✨ Just a 16 y/o dev with too many ideas and not enough RAM.
+> ✨ Just a young dev with too many ideas and not enough RAM.
 
 - 🎮 Gaming & tech enthusiast
 - 🔧 Always breaking stuff to learn how it works
