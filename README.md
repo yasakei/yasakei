@@ -1,7 +1,6 @@
 # 👋 Yo, I'm やさけい (Yasakei)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠_Age-16-blue" alt="Age 16">
   <img src="https://img.shields.io/badge/📚_Status-Learning-brightgreen" alt="Learning">
   <img src="https://img.shields.io/badge/💻_Dev%20at-YAS_Studios-purple" alt="YAS Studios">
 </p>
