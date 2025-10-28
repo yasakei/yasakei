@@ -12,8 +12,8 @@
 > ✨ Just a young dev with too many ideas and not enough processing power.
 
 - 🙂 Backend and Frontend (React) Developer
-- 🔧 Always breaking stuff to learn how it works
 - 🥲 Native C++ Developer 
+- 🔧 Always breaking stuff to learn how it works
 - 🤓 Currently building cool things, getting distracted, and learning lots
 
 ---
