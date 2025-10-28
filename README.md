@@ -1,19 +1,19 @@
-# 👋 Yo, I'm やさけい (Yasakei)
+# 👋 Konnichiwa, I'm やさけい (Yasakei)
 
 <p align="center">
   <img src="https://img.shields.io/badge/📚_Status-Learning-brightgreen" alt="Learning">
-  <img src="https://img.shields.io/badge/💻_Dev%20at-YAS_Studios-purple" alt="YAS Studios">
+  <img src="https://img.shields.io/badge/💻_Discord%20:-yasakei-blue" alt="">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-> ✨ Just a young dev with too many ideas and not enough RAM.
+> ✨ Just a young dev with too many ideas and not enough processing power.
 
-- 🎮 Gaming & tech enthusiast
+- 🙂 Backend and Frontend (React) Developer
 - 🔧 Always breaking stuff to learn how it works
-- 🦊 Firefox Add-on Developer
+- 🥲 Native C++ Developer 
 - 🤓 Currently building cool things, getting distracted, and learning lots
 
 ---
@@ -23,8 +23,8 @@
 <details>
 <summary>🔍 Tap to reveal my chaotic timeline</summary>
 
-- 🐍 Learning **Python** (and vibing with it 🐍)
-- 💻 Exploring **JavaScript** for fun projects
+- 😵 Learning **C++** (and crying with it 😭)
+- 💻 Exploring **JavaScript and Typescript** for fun projects
 - ⚙️ Tinkering with random ideas at 3AM
 - 🎯 Sometimes productive... most times procrastinating
 
@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Always+a+WIP...;Forever+learning+%2F+breaking+%2F+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Always+WIP...;Forever+learning+%2F+breaking+%2F+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
