@@ -11,7 +11,7 @@ I like building things close to the metal **and** making them look good on the w
 
 Most of my learning happens by breaking stuff, fixing it, then breaking it again at 3 AM.
 
-* **Current Focus:** Data Structures, Algorithms, and writing less terrible C++.
+* **Current Focus:** Creating something useful, Algorithms, and writing less terrible C++.
 * **Workflow:** Experiment → break → debug → repeat.
 * **Philosophy:** If I can take it apart, I can understand it.
 
