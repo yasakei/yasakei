@@ -5,6 +5,8 @@
 ![Status](https://img.shields.io/badge/Status-Learning-00ff00?style=for-the-badge&logo=codefactor&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-yasakei-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31owlsxb2nhssradro6omn353u6a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31owlsxb2nhssradro6omn353u6a&redirect=true)
+
 ---
 
 ### Profile
@@ -29,21 +31,8 @@ Most of my learning happens by breaking stuff, fixing it, then breaking it again
 
 ---
 
-### Development Timeline
-<details>
-<summary>View System Logs</summary>
-
-* **System Initialization:** Learned C++ basics the hard way (segfaults included).
-* **Web Phase:** React + Tailwind to make things usable and not ugly.
-* **Current State:** Mixing low-level thinking with high-level interfaces.
-* **Status:** Still learning, still breaking things, still improving.
-
-</details>
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Always+WIP...;Learning+by+breaking.;Building+things+that+interest+me." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=purple&center=true&vCenter=true&width=435&lines=Always+WIP...;Learning+by+breaking.;Building+things+that+interest+me." alt="Typing SVG" />
 </p>
 
 <p align="center">
